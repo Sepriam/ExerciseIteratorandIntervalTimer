@@ -1,0 +1,7 @@
+/* 
+ * Things to add to this project
+ * - if start pressed > 1 code will error
+ * - create stop method and restart method
+ * - stop method should only pause the timers... not dispose? - will allow an if statement to check whether the timers are currently active or not
+ * - adjust the front end bullshit
+ * */

@@ -1,0 +1,17 @@
+﻿<Page x:Class="TimersAndHighlightingLoop.DisplayPageV1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TimersAndHighlightingLoop"
+      mc:Ignorable="d"
+      Title="DisplayPageV1" Height="801" Width="1500">
+
+    <Grid Margin="10">
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="250" Margin="140,269,0,0" VerticalAlignment="Top" Width="1200"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="181" Margin="290,519,0,0" VerticalAlignment="Top" Width="900"/>
+        <Label Content="CURRENT" HorizontalAlignment="Left" Margin="640,269,0,0" VerticalAlignment="Top" Width="160" FontWeight="Bold" FontSize="20" HorizontalContentAlignment="Center"/>
+        <Label Content="COMING UP" HorizontalAlignment="Left" Margin="640,519,0,0" VerticalAlignment="Top" Width="160" FontWeight="Bold" FontSize="10" HorizontalContentAlignment="Center"/>
+
+    </Grid>
+</Page>
